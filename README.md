@@ -14,6 +14,7 @@
 ## 正在学习的事
 - [ ] 英语（真的太差了，恶补中）
 - [ ] 数据结构和算法题（难搞哦！）
+- [ ] 高数、线代、概率论（越学越有意思！）
 
 ## Github Stats✨
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=52beijixing&show_icons=true&theme=dark&count_private=true)
